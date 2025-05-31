@@ -74,7 +74,7 @@ function optionThree(){
   }
 }
 
-function patternBG() {
+function patternBG() { //background pattern
   for(let i=0;i<1000;i+=10){
    noFill();
    stroke('purple');
